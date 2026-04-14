@@ -1,0 +1,28 @@
+.icon-course-link {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    background-color: #777777;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin: 10px;
+    transition: transform 0.2s;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+    background-color: #555;
+}
+
+.icon h1 {
+    margin: 0;
+    font-size: 24px;
+    font-family: monospace;
+}
