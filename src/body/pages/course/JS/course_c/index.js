@@ -17,7 +17,7 @@ function CourseC() {
                     <ul className='sub-section'>
                         <li><Link className='link-section' to="/course/course_c/what-is-c">0.1 Что такое С</Link></li>
                         <li><Link className='link-section' to="/course/course_c/compiler">0.2 Как работает программа (компиляция)</Link></li>
-                        <li>0.3 Установка компилятора (GCC)</li>
+                        <li><Link className='link-section' to="/course/course_c/gcc">0.3 Установка компилятора (GCC)</Link></li>
                         <li>0.4 Первая программа (Hello, World)</li>
                         <li>0.5 Структура программы</li>
                     </ul>

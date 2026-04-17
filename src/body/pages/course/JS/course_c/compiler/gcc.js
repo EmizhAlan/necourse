@@ -1,5 +1,5 @@
 /* Страница с описанием языка программирования Си, что такое Си */
-function Directive() {
+function Gcc() {
     return (
         <div>
             <h1>Директива</h1>
@@ -42,4 +42,4 @@ function Directive() {
         </div>
     );
 }
-export default Directive;
+export default Gcc;
